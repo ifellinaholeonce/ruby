@@ -45,3 +45,5 @@ group :development do
   gem 'spring'
 end
 
+  #Devise, user authentication
+  gem 'devise', '~> 3.5.2.rc'
